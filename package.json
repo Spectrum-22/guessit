@@ -17,7 +17,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:azure": "react-scripts build"
+    "build:azure": "react-scripts build",
+      "app_build_command" : "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
